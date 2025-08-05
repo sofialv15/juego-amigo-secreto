@@ -3,6 +3,7 @@
 // Fucionalidades:
 
 let listaNombresAmigos = [];
+let nombreAmigo = document.getElementById('amigo');
 
 function limpiar() {
     document.querySelector('#amigo').value = '';
@@ -14,7 +15,6 @@ function limpiar() {
 
 function agregarAmigo() {
     // Capturar el valor del campo de entrada:
-    let nombreAmigo = document.getElementById('amigo');
     // Validar la entrada
     if ( nombreAmigo === '') {
         return console.log(alert('Por favor, inserte un nombre'));
