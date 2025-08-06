@@ -1,7 +1,7 @@
 <em> # Desafio Amigo Secreto </em>
 <img width="1891" height="321" alt="image" src="https://github.com/user-attachments/assets/6e7f11bb-c2fb-45f9-aa77-4bea10c9d34b" />
-![Badge Terminado] (https://img.shields.io/badge/STATUS-FINISHED-green)
-![Lanzado en Agosto] (https://img.shields.io/badge/release%20date-august-orange)
+![Badge Terminado](https://img.shields.io/badge/STATUS-FINISHED-green)
+![Lanzado en Agosto](https://img.shields.io/badge/release%20date-august-orange)
 
 ## 📁: Descripcion del proyecto:
 En este desafío, desarrollé una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
